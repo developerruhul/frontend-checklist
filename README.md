@@ -1,6 +1,10 @@
 # My journey to becoming a Frontend Web Developer
 
-> ## Write articles and teach others every single thing you learn. So for example after learning about Eslint, write an article saying -> what is eslint and how to set it up / how does it work - a beginner's look.
+A complete Roadmap to becoming a frontend develoepr based on [this article](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c).
+
+> ## Write articles and teach others every single thing you learn. For example after learning about Eslint, write an article saying -> what is eslint and how to set it up / how does it work?
+
+---
 
 ## PHASE 1: THE BASICS
 
@@ -26,23 +30,22 @@
 - [ ] Learn Fetch Api / ajax
 - [ ] Understand hoisting, event bubbling, Scope Prototype, strict
 
-### How internet works
+### How the internet works
 
 - [ ] How browsers work
 - [ ] What is HTTP, how does it work?
 - [ ] what is JSON and XML
-- [ ] what is dns, how does it work
+- [ ] what is DNS, how does it work
 
 > ### FCC: Responsive Web design certificate
 
 ### TASKS
 
 - [ ] Pick and complete the [frontendmentor](https://www.frontendmentor.io/challenges) challenges --- **UI & UX**
-      **Basic Javascript**
 - [ ] Create a [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) Application. You may clone and make the web version of [this application](https://electronjs.org/apps/pomotroid)
 - [ ] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format.
-- [ ] Create a simple todo list application that allows you to add tasks, mark them complete, edit them and delete them.
-- [ ] Create a simple stop watch where user can start, stop, pause and reset.
+- [ ] Create a simple to-do list application that allows you to add tasks, mark them complete, edit them and delete them.
+- [ ] Create a simple stopwatch where the user can start, stop, pause and reset.
 
 ## PHASE 2: WRITE BETTER CSS
 
@@ -60,7 +63,7 @@
 
 ## PHASE 3: RAMPING UP
 
-This phase is going to be some time and is your step into the modern frontend development. Go ahead and learn more about the JavaScript. Learn what is Webpack, understand the different concepts and why was it ever needed. Understand what is babel, why do we use it and learn how to integrate with webpack and lastly learn how to lint your code using ESLint. All of the items listed in this phase revolve around webpack.
+This phase is going to be some time and is your step into modern frontend development. Go ahead and learn more about the JavaScript. Learn what is Webpack, understand the different concepts and why was it ever needed. Understand what is babel, why do we use it and learn how to integrate with webpack and lastly learn how to lint your code using ESLint. All of the items listed in this phase revolve around webpack.
 
 - [ ] Babel
 - [ ] npm scripts
@@ -79,7 +82,7 @@ This phase is going to be some time and is your step into the modern frontend de
 
 ### ReactJS
 
-#### Understand React Fundamentals
+- [ ] Understand React Fundamentals
 
 #### State Management
 
@@ -118,7 +121,7 @@ This phase is going to be some time and is your step into the modern frontend de
 
 > ### FCC: Frontend libraries certification
 
-Once you have learnt react, go ahead and read about Progressive web apps. Now that you know frontend frameworks, it shouldn’t be that difficult for you. Have a look at the [PWA checklist](https://developers.google.com/web/progressive-web-apps/checklist), read about service workers, measuring performance, using lighthouse and look at the different browser APIs that you can use to your advantage e.g. Storage, Location, Notifications, Device Orientation, and Payments. Also read about [RAIL model](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) and [PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/).
+Once you have learned ReactJS, go ahead and read about Progressive web apps. Now that you know frontend frameworks, it shouldn’t be that difficult for you. Have a look at the [PWA checklist](https://developers.google.com/web/progressive-web-apps/checklist), read about service workers, measuring performance, using lighthouse and look at the different browser APIs that you can use to your advantage e.g. Storage, Location, Notifications, Device Orientation, and Payments. Also read about [RAIL model](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) and [PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/).
 
 ### Read
 
@@ -169,12 +172,13 @@ Once you have learnt react, go ahead and read about Progressive web apps. Now th
 ### Tasks
 
 - [ ] Convert any applications that you made above to be rendered on the server side using Next.js
+- [ ] Create your personal blog and import all your posts
 
 ## Go Beyond
 
 > ### Everything shown in this phase is optional and is not really required for you but if you would like to try them out, go ahead and have a look.
 
-- [ ] Learn about Express a little
+- [ ] Learn about Node & Express a little
 
 ### Tasks
 
@@ -184,4 +188,4 @@ Once you have learnt react, go ahead and read about Progressive web apps. Now th
 
 ## Create a portfolio website
 
-> ### Where to get the design because I am a frontend developer not a desinger and people say you have to a great looking portfolio site to attract and showcase what you know to potential clients and employers. 🤷‍
+> ### Where to get the design? Because I am a frontend developer not a designer and people say you must have a great looking portfolio site to attract and showcase what you know to potential clients and employers. 🤷‍
