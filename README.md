@@ -142,7 +142,7 @@ Once you have learned ReactJS, go ahead and read about Progressive web apps. Now
 
 ## Phase 5: Automated Testing
 
-> ### Learning to write automated tests for your applications is going to save you a lot of headache in the future and is going to put you in a better position when looking for a job.
+Learning to write automated tests for your applications is going to save you a lot of headache in the future and is going to put you in a better position when looking for a job.
 
 - [ ] Learn what are the different types of testing, different concepts such as mocking, stubs etc.
 - [ ] Go ahead and learn Jest, Enzyme, and Cypress in a respective manner
@@ -154,7 +154,7 @@ Once you have learned ReactJS, go ahead and read about Progressive web apps. Now
 
 ## Phase 6:  Static Type Checkers
 
-> ### Type checkers allow you to make your code more maintainable as it grows, increases your agility when doing refactoring, provide better support in the IDEs and are the best form of documentation that you can have. There are mainly Flow and TypeScript in this domain. However, there is more push towards TypeScript and I would recommend you to go with that.
+Type checkers allow you to make your code more maintainable as it grows, increases your agility when doing refactoring, provide better support in the IDEs and are the best form of documentation that you can have. There are mainly Flow and TypeScript in this domain. However, there is more push towards TypeScript and I would recommend you to go with that.
 
 - [ ] Typescript
 
@@ -164,7 +164,7 @@ Once you have learned ReactJS, go ahead and read about Progressive web apps. Now
 
 ## Phase 7:  Server-Side Rendering & Static Site Generator
 
-> ### Server rendered applications allow achieving better performance and improved SEO as compared to the client rendered applications. Although not a requirement it would definitely help you in crafting better frontend applications. There are different options available, based on the frontend framework of your choice; but if you picked React.js then you should go with Next.js which makes SSR a breeze.
+Server rendered applications allow achieving better performance and improved SEO as compared to the client rendered applications. Although not a requirement it would definitely help you in crafting better frontend applications. There are different options available, based on the frontend framework of your choice; but if you picked React.js then you should go with Next.js which makes SSR a breeze.
 
 - [ ] Next.js
 - [ ] GatsbyJS
@@ -176,7 +176,7 @@ Once you have learned ReactJS, go ahead and read about Progressive web apps. Now
 
 ## Go Beyond
 
-> ### Everything shown in this phase is optional and is not really required for you but if you would like to try them out, go ahead and have a look.
+Everything shown in this phase is optional and is not really required for you but if you would like to try them out, go ahead and have a look.
 
 - [ ] Learn about Node & Express a little
 
