@@ -1,6 +1,8 @@
 # My journey to becoming a Frontend Web Developer
 
-A complete Roadmap to becoming a frontend develoepr based on [this article](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c).
+A complete Roadmap to becoming a frontend developer based on [this article](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) by [@kamranahmedse](https://github.com/kamranahmedse)
+
+I am on [twitter👉](https://twitter.com/ruhulamindev)
 
 > ## Write articles and teach others every single thing you learn. For example after learning about Eslint, write an article saying -> what is eslint and how to set it up / how does it work?
 
@@ -188,4 +190,7 @@ Everything shown in this phase is optional and is not really required for you bu
 
 ## Create a portfolio website
 
-> ### Where to get the design? Because I am a frontend developer not a designer and people say you must have a great looking portfolio site to attract and showcase what you know to potential clients and employers. 🤷‍
+> ### Where to get the design? Because you are a frontend developer not a designer and people say you must have a great looking portfolio site to attract and showcase what you know to potential clients and employers. 🤷‍
+
+
+
