@@ -2,7 +2,7 @@
 
 A complete Roadmap to becoming a frontend developer based on [this article](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) by [@kamranahmedse](https://github.com/kamranahmedse)
 
-I am on [twitter👉](https://twitter.com/ruhulamindev)
+I am on [twitter👉](https://twitter.com/ruhulwebdev)
 
 > ## Write articles and teach others every single thing you learn. For example after learning about Eslint, write an article saying -> what is eslint and how to set it up / how does it work?
 
