@@ -202,4 +202,6 @@ Where to get the design? Because you are a frontend developer not a designer and
 
 ---
 
-## Please send a PR if you think something's missing or you have an anwer
+## Please send a PR if you think something's missing.
+
+## Please share and 🌟 this project so every miserable people like me who wants to be self taught can get some guidence.
