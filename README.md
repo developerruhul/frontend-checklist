@@ -1,10 +1,20 @@
-# My journey to becoming a Frontend Web Developer
+# A complete list of skills and tasks to become a modern frontend developer
 
-A complete Roadmap to becoming a frontend developer based on [this article](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) by [@kamranahmedse](https://github.com/kamranahmedse)
+Based on the article [modern frontend developer in 2019](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) by brother [@kamranahmedse](https://twitter.com/kamranahmedse).
 
-I am on [twitter👉](https://twitter.com/ruhulwebdev)
+I created this checklist for myself and I will be going through each of these topics till the end inshallah. So follow me or suggest me something on [Twitter👉](https://twitter.com/ruhulwebdev)
 
-> ## Write articles and teach others every single thing you learn. For example after learning about Eslint, write an article saying -> what is eslint and how to set it up / how does it work?
+## Usage
+
+Just study each topic and check them done. And also write articles and teach others every single thing you learn. For example after learning about Eslint, write an article saying -> what is eslint and how to set it up / how does it work?
+
+And put the link of the article at the right of the topic. Like this -
+
+- [x] Learn the basics --- [The basics of HTML](#) // article link
+
+As for the tasks, complete them and put the links at the right of the task checklist
+
+- [x] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format. --- [solution](#) // link of your solution or project
 
 ---
 
@@ -186,11 +196,10 @@ Everything shown in this phase is optional and is not really required for you bu
 
 - [ ] Create a simple crud application using MERN stack
 
+### Create a portfolio website and put all these project in there or just put your fork of this repo in there
+
+Where to get the design? Because you are a frontend developer not a designer and people say you must have a great looking portfolio site to attract and showcase what you know to potential clients and employers. I have no idea on this one🤷‍.
+
 ---
 
-## Create a portfolio website
-
-> ### Where to get the design? Because you are a frontend developer not a designer and people say you must have a great looking portfolio site to attract and showcase what you know to potential clients and employers. 🤷‍
-
-
-
+## Please send a PR if you think something's missing or you have an anwer
