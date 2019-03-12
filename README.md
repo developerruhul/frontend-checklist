@@ -49,7 +49,7 @@ As for the tasks, complete them and put the links at the right of the task check
 - [ ] what is JSON and XML
 - [ ] what is DNS, how does it work
 
-> ### FCC: Responsive Web design certificate
+> ### FCC: [Responsive Web design certificate](https://learn.freecodecamp.org/)
 
 ### TASKS
 
@@ -83,7 +83,7 @@ This phase is going to be some time and is your step into modern frontend develo
 - [ ] eslint
 - [ ] prettier
 
-> ### FCC: JavaScript Algorithms and Data Structures
+> ### FCC: [JavaScript Algorithms and Data Structures](https://learn.freecodecamp.org/)
 
 ### Tasks
 
@@ -131,7 +131,7 @@ This phase is going to be some time and is your step into modern frontend develo
 
 - [ ] React Intl
 
-> ### FCC: Frontend libraries certification
+> ### FCC: [Frontend libraries certification](https://learn.freecodecamp.org/)
 
 Once you have learned ReactJS, go ahead and read about Progressive web apps. Now that you know frontend frameworks, it shouldn’t be that difficult for you. Have a look at the [PWA checklist](https://developers.google.com/web/progressive-web-apps/checklist), read about service workers, measuring performance, using lighthouse and look at the different browser APIs that you can use to your advantage e.g. Storage, Location, Notifications, Device Orientation, and Payments. Also read about [RAIL model](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) and [PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/).
 
