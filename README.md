@@ -1,4 +1,4 @@
-# A complete list of skills and tasks to become a modern frontend developer
+# [A complete list of skills and tasks to become a modern frontend developer📦](https://www.github.com/ruhulwebdev/frontend-checklist/)
 
 Based on the article [modern frontend developer in 2019](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) by brother [@kamranahmedse](https://twitter.com/kamranahmedse).
 
