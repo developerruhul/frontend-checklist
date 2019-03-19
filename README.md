@@ -2,7 +2,7 @@
 
 Based on the article [modern frontend developer in 2019](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) by brother [@kamranahmedse](https://twitter.com/kamranahmedse).
 
-I created this checklist for myself and I will be going through each of these topics till the end inshallah. So follow me or suggest me something on [Twitter👉](https://twitter.com/ruhulwebdev)
+I created this checklist for myself and I will be completing this checklist inshallah. So follow me or suggest me something on [Twitter👉](https://twitter.com/ruhulwebdev)
 
 ## Usage
 
