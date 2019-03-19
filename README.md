@@ -51,6 +51,8 @@ As for the tasks, complete them and put the links at the right of the task check
 
 > ### FCC: [Responsive Web design certificate](https://learn.freecodecamp.org/)
 
+> ### FCC: [JavaScript Algorithms and Data Structures](https://learn.freecodecamp.org/)
+
 ### TASKS
 
 - [ ] Pick and complete the [frontendmentor](https://www.frontendmentor.io/challenges) challenges --- **UI & UX**
@@ -82,8 +84,6 @@ This phase is going to be some time and is your step into modern frontend develo
 - [ ] webpack
 - [ ] eslint
 - [ ] prettier
-
-> ### FCC: [JavaScript Algorithms and Data Structures](https://learn.freecodecamp.org/)
 
 ### Tasks
 
