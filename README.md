@@ -6,13 +6,7 @@ I created this checklist for myself and I will be completing this checklist insh
 
 ## Usage
 
-Just study each topic and check them done. And also write articles and teach others every single thing you learn. For example after learning about Eslint, write an article saying -> what is eslint and how to set it up / how does it work?
-
-And put the link of the article at the right of the topic. Like this -
-
-- [x] Learn the basics --- [The basics of HTML](#) // article link
-
-As for the tasks, complete them and put the links at the right of the task checklist
+Just study each topic and check them done. As for the tasks, complete them and put the links at the right of the task checklist
 
 - [x] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format. --- [solution](#) // link of your solution or project
 
@@ -22,40 +16,36 @@ As for the tasks, complete them and put the links at the right of the task check
 
 ### HTML
 
-- [ ] Learn the basics
-- [ ] Writing Semantic Html
-- [ ] Basic SEO
-- [ ] Accessibility
+- [x] Learn the basics
+- [x] Writing Semantic Html
+- [x] Basic SEO
+- [x] Accessibility
 
 ### CSS
 
-- [ ] Learn the basics
-- [ ] making layouts -> Floats, Positioning, Display, Box Model, CSS Grid, Flex Box
-- [ ] Media Queries
-- [ ] Learn CSS 3
+- [x] Learn the basics
+- [x] making layouts -> Floats, Positioning, Display, Box Model, CSS Grid, Flex Box
+- [x] Media Queries
+- [x] Learn CSS 3
 
 ### Javascript
 
-- [ ] Syntax and Basics Constructs
-- [ ] ES6+ and moduler Javascript
-- [ ] Learn DOM manipulation
-- [ ] Learn Fetch Api / ajax
-- [ ] Understand hoisting, event bubbling, Scope Prototype, strict
+- [x] Syntax and Basics Constructs
+- [x] ES6+ and moduler Javascript
+- [x] Learn DOM manipulation
+- [x] Learn Fetch Api / ajax
+- [x] Understand hoisting, event bubbling, Scope Prototype, strict
 
 ### How the internet works
 
-- [ ] How browsers work
-- [ ] What is HTTP, how does it work?
-- [ ] what is JSON and XML
-- [ ] what is DNS, how does it work
-
-> ### FCC: [Responsive Web design certificate](https://learn.freecodecamp.org/)
-
-> ### FCC: [JavaScript Algorithms and Data Structures](https://learn.freecodecamp.org/)
+- [x] How browsers work
+- [x] What is HTTP, how does it work?
+- [x] what is JSON and XML
+- [x] what is DNS, how does it work
 
 ### TASKS
 
-- [ ] Pick and complete the [frontendmentor](https://www.frontendmentor.io/challenges) challenges --- **UI & UX**
+- [ ] Pick and complete the [frontendmentor](https://www.frontendmentor.io/challenges) challenges --- for **UI & UX** //-- {currently doing}
 - [ ] Create a [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) Application. You may clone and make the web version of [this application](https://electronjs.org/apps/pomotroid)
 - [ ] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format.
 - [ ] Create a simple to-do list application that allows you to add tasks, mark them complete, edit them and delete them.
@@ -130,8 +120,6 @@ This phase is going to be some time and is your step into modern frontend develo
 ### i18n
 
 - [ ] React Intl
-
-> ### FCC: [Frontend libraries certification](https://learn.freecodecamp.org/)
 
 Once you have learned ReactJS, go ahead and read about Progressive web apps. Now that you know frontend frameworks, it shouldn’t be that difficult for you. Have a look at the [PWA checklist](https://developers.google.com/web/progressive-web-apps/checklist), read about service workers, measuring performance, using lighthouse and look at the different browser APIs that you can use to your advantage e.g. Storage, Location, Notifications, Device Orientation, and Payments. Also read about [RAIL model](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) and [PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/).
 
