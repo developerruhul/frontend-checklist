@@ -10,7 +10,15 @@ Just study each topic and check them done. As for the tasks, complete them and p
 
 - [x] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format. --- [solution](#) // link of your solution or project
 
+
 ---
+
+## I already know most of these stuffs so it'd be better to just start freelancing besides studying. That way i'll get real world experience and also $$ (: . 
+
+## But I need a little portfolio to begin. So I'll use [this](https://github.com/ruhulwebdev/freelance-portfolio) repo to track my freelance portfolio progress and will also set milestones to complete it.
+
+---
+
 
 ## PHASE 1: THE BASICS
 
