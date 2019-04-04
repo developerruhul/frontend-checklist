@@ -15,7 +15,7 @@ Just study each topic and check them done. As for the tasks, complete them and p
 
 ## I already know most of these stuffs so it'd be better to just start freelancing besides studying. That way i'll get real world experience and also $$ (: . 
 
-## But I need a little portfolio to begin. So I'll use [this](https://github.com/ruhulwebdev/freelance-portfolio) repo to track my freelance portfolio progress and will also set milestones to complete it.
+## But I need a little portfolio to begin. So I'll use [this](https://github.com/ruhulwebdev/freelance-portfolio) repo to track my freelance portfolio progress and will also set milestones to complete it inshallah.
 
 ---
 
