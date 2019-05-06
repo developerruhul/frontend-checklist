@@ -53,7 +53,7 @@ Just study each topic and check them done. As for the tasks, complete them and p
 
 ### TASKS
 
-- [ ] Pick and complete the [frontendmentor](https://www.frontendmentor.io/challenges) challenges --- for **UI & UX** //-- {currently doing}
+- [ ] Pick and complete the [frontendmentor](https://www.frontendmentor.io/challenges) challenges --- for **UI & UX**
 - [ ] Create a [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) Application. You may clone and make the web version of [this application](https://electronjs.org/apps/pomotroid)
 - [ ] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format.
 - [ ] Create a simple to-do list application that allows you to add tasks, mark them complete, edit them and delete them.
