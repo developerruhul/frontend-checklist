@@ -2,7 +2,7 @@
 
 Based on the article [modern frontend developer in 2019](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) by brother [@kamranahmedse](https://twitter.com/kamranahmedse).
 
-I created this checklist for myself and I will be completing this checklist inshallah. So follow me or suggest me something on [Twitter👉](https://twitter.com/ruhulwebdev)
+### Follow me on [Twitter👉](https://twitter.com/developerruhul)
 
 ## Usage
 
@@ -11,45 +11,36 @@ Just study each topic and check them done. As for the tasks, complete them and p
 - [x] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format. --- [solution](#) // link of your solution or project
 
 
----
-
-## I already know most of these stuffs so it'd be better to just start freelancing besides studying. That way i'll get real world experience and also $$ (: . 
-
-## But I need a little portfolio to begin. So I'll use [this](https://github.com/ruhulwebdev/freelance-portfolio) repo to track my freelance portfolio progress and will also set milestones to complete it inshallah.
-
----
-
-
 ## PHASE 1: THE BASICS
 
 ### HTML
 
-- [x] Learn the basics
-- [x] Writing Semantic Html
-- [x] Basic SEO
-- [x] Accessibility
+- [ ] Learn the basics
+- [ ] Writing Semantic Html
+- [ ] Basic SEO
+- [ ] Accessibility
 
 ### CSS
 
-- [x] Learn the basics
-- [x] making layouts -> Floats, Positioning, Display, Box Model, CSS Grid, Flex Box
-- [x] Media Queries
-- [x] Learn CSS 3
+- [ ] Learn the basics
+- [ ] making layouts -> Floats, Positioning, Display, Box Model, CSS Grid, Flex Box
+- [ ] Media Queries
+- [ ] Learn CSS 3
 
 ### Javascript
 
-- [x] Syntax and Basics Constructs
-- [x] ES6+ and moduler Javascript
-- [x] Learn DOM manipulation
-- [x] Learn Fetch Api / ajax
-- [x] Understand hoisting, event bubbling, Scope Prototype, strict
+- [ ] Syntax and Basics Constructs
+- [ ] ES6+ and moduler Javascript
+- [ ] Learn DOM manipulation
+- [ ] Learn Fetch Api / ajax
+- [ ] Understand hoisting, event bubbling, Scope Prototype, strict
 
 ### How the internet works
 
-- [x] How browsers work
-- [x] What is HTTP, how does it work?
-- [x] what is JSON and XML
-- [x] what is DNS, how does it work
+- [ ] How browsers work
+- [ ] What is HTTP, how does it work?
+- [ ] what is JSON and XML
+- [ ] what is DNS, how does it work
 
 ### TASKS
 
