@@ -33,7 +33,7 @@ Just study each topic and check them done. As for the tasks, complete them and p
 - [ ] ES6+ and moduler Javascript
 - [ ] Learn DOM manipulation
 - [ ] Learn Fetch Api / ajax
-- [ ] Understand hoisting, event bubbling, Scope Prototype, strict
+- [ ] Understand hoisting, Event bubbling, Scope Prototype, Strict Mode
 
 ### How the internet works
 
@@ -52,10 +52,10 @@ Just study each topic and check them done. As for the tasks, complete them and p
 
 ## PHASE 2: WRITE BETTER CSS
 
-- [ ] package managers -> npm - yarn
+- [ ] Package managers -> npm/yarn
 - [ ] CSS architecture -> BEM
-- [ ] CSS Frameworks - bootstrap
-- [ ] CSS Pre-processors - SASS
+- [ ] CSS Frameworks -> Bootstrap
+- [ ] CSS Pre-processors -> SASS
 
 ### TASKS
 
@@ -77,9 +77,9 @@ This phase is going to be some time and is your step into modern frontend develo
 ### Tasks
 
 - [ ] Create an npm package that takes a username and gives back the list of links found on the social networks (if they exist). It should be usable in the browser, bundle it with webpack, use babel to transpile it and use ESLint for linting.
-- [ ] Create a simple to-do list application, use SASS for the CSS, add bootstrap for styles, use BEM, transpile JavaScript using babel, bundle it with webpack, create optimized production build and deploy it on Github Pages.
+- [ ] Create a simple to-do list application, use SASS for the CSS, add Bootstrap for styles, use BEM, transpile JavaScript using babel, bundle it with webpack, create optimized production build and deploy it on Github Pages.
 
-## PHASE 4: MASTER A FRAMEWORK
+## PHASE 4: MASTERING A FRAMEWORK
 
 ### ReactJS
 
@@ -113,7 +113,7 @@ This phase is going to be some time and is your step into modern frontend develo
 ### Utility libraries
 
 - [ ] lodash
-- [ ] Moment
+- [ ] Moment/Luxon
 - [ ] classnames
 
 ### i18n
