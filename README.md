@@ -6,9 +6,9 @@ Based on the article [modern frontend developer in 2019](https://medium.com/tech
 
 ## Usage
 
-Just study each topic and check them done. As for the tasks, complete them and put the links at the right of the task checklist
+Just study each topic and check them as done ✅. As for the tasks, complete them and put the links at the right side of the task instructions. So like this -
 
-- [x] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format. --- [solution](#) // link of your solution or project
+- [x] Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format. --> [solution](#) // link of your solution or project
 
 
 ## PHASE 1: THE BASICS
@@ -39,8 +39,8 @@ Just study each topic and check them done. As for the tasks, complete them and p
 
 - [ ] How browsers work
 - [ ] What is HTTP, how does it work?
-- [ ] what is JSON and XML
-- [ ] what is DNS, how does it work
+- [ ] What is JSON and XML
+- [ ] What is DNS, how does it work
 
 ### TASKS
 
@@ -54,22 +54,21 @@ Just study each topic and check them done. As for the tasks, complete them and p
 
 - [ ] Package managers -> npm/yarn
 - [ ] CSS architecture -> BEM
-- [ ] CSS Frameworks -> Bootstrap
-- [ ] CSS Pre-processors -> SASS
+- [ ] CSS Frameworks -> Bootstrap/TailwindCSS
+- [ ] CSS Pre-processors -> SASS/PostCSS
 
 ### TASKS
 
-- [ ] Add bootstrap to the phase 1 projects using npm or yarn
-- [ ] convert the projects that you made in phase 1 to use BEM
-- [ ] Write the CSS in SASS
-- [ ] Automate the SASS to CSS conversion using npm script
+- [ ] Create some phase 1 projects using **Bootstrap** and **TailwindCSS**
+- [ ] Try to use npm/yarn as much as possible to practice it
+- [ ] Convert some phase 1 projects to use BEM
+- [ ] Write any CSS in SASS/PostCSS
 
-## PHASE 3: RAMPING UP
+## PHASE 3: Build tools
 
-This phase is going to be some time and is your step into modern frontend development. Go ahead and learn more about the JavaScript. Learn what is Webpack, understand the different concepts and why was it ever needed. Understand what is babel, why do we use it and learn how to integrate with webpack and lastly learn how to lint your code using ESLint. All of the items listed in this phase revolve around webpack.
+This phase is going to be taking some time and is your step into modern frontend web development. Go ahead and learn more about the JavaScript ecosystem. Learn what is Webpack, understand the different concepts and why was it ever needed. Understand what is babel, why do we use it, and learn how to integrate it with webpack and finally, learn how to lint your code using ESLint. All of the items listed in this phase revolve around webpack.
 
 - [ ] Babel
-- [ ] npm scripts
 - [ ] webpack
 - [ ] eslint
 - [ ] prettier
@@ -77,7 +76,7 @@ This phase is going to be some time and is your step into modern frontend develo
 ### Tasks
 
 - [ ] Create an npm package that takes a username and gives back the list of links found on the social networks (if they exist). It should be usable in the browser, bundle it with webpack, use babel to transpile it and use ESLint for linting.
-- [ ] Create a simple to-do list application, use SASS for the CSS, add Bootstrap for styles, use BEM, transpile JavaScript using babel, bundle it with webpack, create optimized production build and deploy it on Github Pages.
+- [ ] Create a simple to-do list application. Use SASS/PostCSS for the CSS, add Bootstrap/TailwindCSS for the styles, use BEM where needed, transpile JavaScript using babel, bundle it with webpack, create optimized production build and deploy it on Github Pages/Netlify/Vercel.
 
 ## PHASE 4: MASTERING A FRAMEWORK
 
@@ -88,10 +87,10 @@ This phase is going to be some time and is your step into modern frontend develo
 #### State Management
 
 - [ ] Redux
-- [ ] Redux thunk
-- [ ] Redux saga
+- [ ] Redux Toolkit
 - [ ] rematch
 - [ ] reselect
+- [ ] mobx
 
 ### Type-checkers
 
@@ -104,6 +103,7 @@ This phase is going to be some time and is your step into modern frontend develo
 ### API clients
 
 - [ ] fetch(native)
+- [ ] Axios
 
 ### Form helpers
 
